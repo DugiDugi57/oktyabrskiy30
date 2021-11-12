@@ -1,4 +1,0 @@
-User-agent: 
-Disallow: 
-Sitemap: http://oktyabrskiy30.ru/sitemap.xml.
-
