@@ -1,4 +1,4 @@
-User-agent: *
-Disallow: /cgi-bin
-Sitemap: http://example.com/adres_sitemap.xml.
+User-agent: 
+Disallow: 
+Sitemap: http://oktyabrskiy30.ru/sitemap.xml.
 
