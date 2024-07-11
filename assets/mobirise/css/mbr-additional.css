@@ -682,12 +682,6 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-sIpSzsvU55 {
-  background-image: url("../../../assets/images/img-416-2000x2000.jpeg");
-}
-.cid-sIpSzsvU55 .mbr-section-title {
-  color: #22a5e5;
-}
 .cid-sIpXLcvjUW {
   z-index: 1000;
   width: 100%;
@@ -1037,6 +1031,12 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
+}
+.cid-sIpSzsvU55 {
+  background-image: url("../../../assets/images/img-416-2000x2000.jpeg");
+}
+.cid-sIpSzsvU55 .mbr-section-title {
+  color: #22a5e5;
 }
 .cid-sOwwhu1Zec {
   padding-top: 6rem;
